@@ -1,0 +1,5 @@
+AllanHomePC:Administrators:Administrator
+AllanHomePC:Administrators:allan
+AllanHomePC:Users:allan
+AllanHomePC:Users:NT AUTHORITY\Authenticated Users
+AllanHomePC:Users:NT AUTHORITY\INTERACTIVE
